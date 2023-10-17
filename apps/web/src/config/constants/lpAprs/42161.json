@@ -1,0 +1,27 @@
+{
+    "0x2e3daddd536db659ad5518728289410b517062cb": {
+        "oscarAllocPoint":5000,
+        "wethAllocPoint":5000,
+        "stableAllocPoint":5000,
+        "oscarPoolWeight":10000,
+        "wethPoolWeight":10000,
+        "stablePoolWeight":10000
+    },
+    "0x4F66e097590057D002AB69446cF8115CeB4dA2D5": {
+        "oscarAllocPoint":3000,
+        "wethAllocPoint":3000,
+        "stableAllocPoint":3000,
+        "oscarPoolWeight":10000,
+        "wethPoolWeight":10000,
+        "stablePoolWeight":10000
+    }
+    ,
+    "0xCB0E5bFa72bBb4d16AB5aA0c60601c438F04b4ad": {
+        "oscarAllocPoint":2000,
+        "wethAllocPoint":2000,
+        "stableAllocPoint":2000,
+        "oscarPoolWeight":10000,
+        "wethPoolWeight":10000,
+        "stablePoolWeight":10000
+    }
+}

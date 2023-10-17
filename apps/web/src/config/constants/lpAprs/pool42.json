@@ -1,0 +1,17 @@
+{
+    "0xCD6Db4eC90e6e7Ed78C85d50be162c3d19490552": {
+        "allocPoint":1000,
+        "wethAllocPoint":1000,
+        "stableAllocPoint":1000
+    },
+    "0x6c02DDb383dEd2e3F41BE9BF8F7503e417820F2B": {
+        "allocPoint":1000,
+        "wethAllocPoint":1000,
+        "stableAllocPoint":1000
+    },
+    "0x53E2f2AC09921cf9de20541fF724cF2ab1493Ed8": {
+        "allocPoint":1000,
+        "wethAllocPoint":1000,
+        "stableAllocPoint":1000
+    }
+}
